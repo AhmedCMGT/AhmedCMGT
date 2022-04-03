@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmed
-- 👀 I’m interested in ...C#, VB, Anti-Cheat, Battlefield, etcC#
-- 🌱 I’m currently learning ...C#, etc.
-- 💞️ I’m looking to collaborate on ...KeyMac
-- 📫 How to reach me ...
+- 👀 Estoy interesado en...C#, VB, Anti-Cheat,Battlefield,etc
+- 🌱 Actualmente estoy aprendiendo... C#, etc.
+- 💞️ Estoy buscando colaborar en ...
+- 📫 Como contactarme...
 
 <!---
 AhmedCMGT/AhmedCMGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
