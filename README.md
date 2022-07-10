@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en: C#, VB, Anti-Cheat,Battlefield,etc
 - 🌱 Actualmente estoy aprendiendo: C#, etc...
 - 💞️ Estoy buscando colaborar en: Proyectos de AntiHook de Battlefield y prpyectos de C#
-- 📫 Como contactarme: ahmedcouto@gmail.com
+- 📫 Como contactarme: ahmedcouto@gmail.com, https://t.me/CrackPr0
 
 <!---
 AhmedCMGT/AhmedCMGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
